@@ -1,0 +1,46 @@
+.Form-container {
+  text-align: center;
+  padding: 20px;
+}
+.Form-Heading {
+  margin: 10px 0px;
+  color: #83f28f;
+}
+.booking-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+input,
+textarea,
+select {
+  margin-bottom: 15px;
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+@media screen and (max-width: 600px) {
+  .booking-form {
+    max-width: 100%;
+  }
+}

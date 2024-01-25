@@ -1,0 +1,24 @@
+{
+  "slides": [
+    {
+      "src": "https://wallpaperaccess.com/full/5496283.jpg",
+      "alt": "Image 1",
+      "description": "Impressive healthcare service! The medical staff showed genuine care, and the facility maintained high standards of cleanliness and professionalism."
+    },
+    {
+      "src": "https://th.bing.com/th/id/OIP._odqplBeMenXpRtyJeujfgHaFj?pid=ImgDet&w=474&h=355&rs=1",
+      "alt": "Image 2",
+      "description": "Exceptional healthcare experience! From skilled practitioners to a welcoming environment, this service provides comprehensive and compassionate care."
+    },
+    {
+      "src": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "alt": "Image 3",
+      "description": "Highly recommend this healthcare service! The team's expertise, coupled with a patient-centric approach, ensures top-notch medical care and peace of mind."
+    },
+    {
+      "src": "https://thumbs.dreamstime.com/b/handsome-curious-happy-indian-man-face-photo-27179389.jpg",
+      "alt": "Image 4",
+      "description": "Outstanding healthcare professionals! Timely appointments, clear communication, and a focus on patient well-being make this service stand out in the healthcare industry."
+    }
+  ]
+}

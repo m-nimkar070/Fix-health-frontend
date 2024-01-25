@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.App {
+  font-family: sans-serif;
+  background-color: #121212;
+  color: #ffffff;
+  padding: 0px;
+}
